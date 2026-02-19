@@ -4,7 +4,7 @@ description: Apply the perspective of mortality to strip away pretense and revea
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3783
+  version: 1.0.3784
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - death-awareness-perspective
